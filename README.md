@@ -27,9 +27,9 @@
 - 邮箱 huanli-yuan@hotmail.com
 - 或者 leyouyuan07@hotmail.com
 - 洛谷/LUOGU https://www.luogu.com.cn/user/531511
-比特币地址:1KaVnwDKszzqJ3drpmK6KzV72E74hgGme
-至于比特币，我推荐
-**我想要minecraft正版帐号，给我捐款qwq**
+比特币地址:1KaVnwDKszzqJ3drpmK6KzV72E74hgGme    
+至于比特币，我推荐localbitcoin.com,见github.com/leyouyuan/btckepu    
+**我想要minecraft正版帐号，给我捐款qwq**    
 <!---
 leyouyuan/leyouyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
