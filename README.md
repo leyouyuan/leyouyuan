@@ -10,6 +10,11 @@
 - 📫 How to reach me ...
 - 我是袁焕理，一个出生于2007年12月9日的男孩
 - I'm Eric(Yuan Huanli),a boy born on December 9,2007
+- 现在居住在西安
+- Live in Xi'an now
+- 性别男，我不知道我性取向如何（可能是双性恋）
+- My gender is male,and I don't know what my sexual is (may be bisexual)
+
 - 西安高新第一中学初中校区就读
 - studying in Xi'an Gaoxin No.1 Middle School.
 - Arch Linux User
