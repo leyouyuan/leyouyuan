@@ -22,6 +22,7 @@
   learning C++,  
 社交帐号（我想创立个人博客，但是我没钱，看后面我的比特币地址1KaVnwDKszzqJ3drpmK6KzV72E74hgGmeT）
 - 知乎/Zhihu:https://www.zhihu.com/people/27-96-40
+- B站/Bilibili:https://space.bilibili.com/1888663372
 - qq:3262760478
 - 微信leyouyuan_071209
 - 邮箱 huanli-yuan@hotmail.com
