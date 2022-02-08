@@ -14,6 +14,7 @@
   Live in Xi'an now  
   性别男，我不知道我性取向如何（可能是双性恋） male,and I don't know what my sexual is (may be bisexual)
 
+**也许有人会说我思想偏左，让我不发表某些言论，**
 - 西安高新第一中学初中校区就读  
   studying in Xi'an Gaoxin No.1 Middle School.  
 - Arch Linux User  
