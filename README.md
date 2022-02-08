@@ -12,9 +12,9 @@
   I'm Eric(Yuan Huanli),a boy born on December 9,2007   
   现在居住在西安
   Live in Xi'an now  
-  我不知道我性取向如何（可能是双性恋）也不知道自己是cis还是trans and I don't know what my sexual is (may be bisexual)
+  我不知道我性取向如何（可能是双性恋） and I don't know what my sexual is (may be bisexual)
 
-**也许有人会说我思想偏左，让我不发表某些言论，但是我有发表言论的自由，我希望大家也可以发表言论 **
+**也许有人会说我思想偏左，以关心我的名义，让我不发表某些言论，但是我有发表言论的自由，我希望大家也可以发表言论 **
 - 西安高新第一中学初中校区就读  
   studying in Xi'an Gaoxin No.1 Middle School.  
 - Arch Linux User  
