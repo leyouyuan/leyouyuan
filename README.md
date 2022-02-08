@@ -12,8 +12,7 @@
   I'm Eric(Yuan Huanli),a boy born on December 9,2007   
   现在居住在西安
   Live in Xi'an now  
-  性别男，我不知道我性取向如何（可能是双性恋）
-  My gender is male,and I don't know what my sexual is (may be bisexual)
+  性别男，我不知道我性取向如何（可能是双性恋） male,and I don't know what my sexual is (may be bisexual)
 
 - 西安高新第一中学初中校区就读  
   studying in Xi'an Gaoxin No.1 Middle School.  
@@ -24,7 +23,8 @@
 - 知乎/Zhihu:https://www.zhihu.com/people/27-96-40
 - B站/Bilibili:https://space.bilibili.com/1888663372
 - qq:3262760478
-- 微信leyouyuan_071209
+- 微信 leyouyuan_071209
+- 钉钉 leyouyuan07
 - 邮箱 huanli-yuan@hotmail.com
 - 或者 leyouyuan07@hotmail.com
 - 洛谷/LUOGU https://www.luogu.com.cn/user/531511
