@@ -28,7 +28,10 @@
 - 邮箱 huanli-yuan@hotmail.com
 - 或者 leyouyuan07@hotmail.com
 - 洛谷/LUOGU https://www.luogu.com.cn/user/531511
-比特币地址:1KaVnwDKszzqJ3drpmK6KzV72E74hgGme    
+比特币地址:
+'''
+1KaVnwDKszzqJ3drpmK6KzV72E74hgGmeT    
+'''
 至于比特币，我推荐localbitcoin.com,见github.com/leyouyuan/btckepu    
 **我想要minecraft正版帐号，给我捐款qwq**    
 <!---
