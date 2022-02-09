@@ -1,26 +1,10 @@
 - 👋 Hi, I’m @leyouyuan
+- Arch Linux User
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 👋 Hi, I’m @leyouyuan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 我是袁焕理，一个出生于2007年12月9日的男孩
-  I'm Eric(Yuan Huanli),a boy born on December 9,2007   
-  现在居住在西安
-  Live in Xi'an now  
-  我不知道我性取向如何（可能是双性恋） and I don't know what my sexual is (may be bisexual)
-
-**也许有人会说我思想偏左，以关心我的名义，让我不发表某些言论，但是我有发表言论的自由，我希望大家也可以发表言论 **
-- 西安高新第一中学初中校区就读  
-  studying in Xi'an Gaoxin No.1 Middle School.  
-- Arch Linux User  
-- 在学习C++,  
-  learning C++,  
-社交帐号（我想创立个人博客，但是我没钱，看后面我的比特币地址1KaVnwDKszzqJ3drpmK6KzV72E74hgGmeT）
+- 📫 How to reach me 
+-（我想创立个人博客，但是我没钱，看后面我的比特币地址1KaVnwDKszzqJ3drpmK6KzV72E74hgGmeT）
 - 知乎/Zhihu:https://www.zhihu.com/people/27-96-40
 - B站/Bilibili:https://space.bilibili.com/1888663372
 - qq:3262760478
@@ -29,6 +13,15 @@
 - 邮箱 huanli-yuan@hotmail.com
 - 或者 leyouyuan07@hotmail.com
 - 洛谷/LUOGU https://www.luogu.com.cn/user/531511
+
+
+**也许有人会说我思想偏左，以关心我的名义，让我不发表某些言论，但是我有发表言论的自由，我希望大家也可以发表言论 **
+- 西安高新第一中学初中校区就读  
+  studying in Xi'an Gaoxin No.1 Middle School.  
+- Arch Linux User  
+- 在学习C++,  
+  learning C++,  
+社交帐号
 比特币地址:
 ```
 1KaVnwDKszzqJ3drpmK6KzV72E74hgGmeT    
