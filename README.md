@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning C/C++;
 - 💞️ I’m looking to collaborate on ...
 我想创立个人博客，但是我没钱，看后面我的比特币地址1KaVnwDKszzqJ3drpmK6KzV72E74hgGmeT）
-> B站/Bilibili:https://space.bilibili.com/1888663372 
-> 知乎 https://www.zhihu.com/people/27-96-40   
-> qq:3262760478;微信 leyouyuan_071209;钉钉 leyouyuan07;Jami(很推荐大家使用):leyouyuan;Telegram:无    
+> [B站/Bilibili](https://space.bilibili.com/1888663372)  [知乎]( https://www.zhihu.com/people/27-96-40)   
 > Manstodon:leyouyuan
 > 邮箱 huanli-yuan@hotmail.com;或者 leyouyuan07@hotmail.com    
 > 洛谷/LUOGU https://www.luogu.com.cn/user/531511    
