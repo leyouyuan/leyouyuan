@@ -10,7 +10,7 @@
 > 邮箱 huanli-yuan@hotmail.com;或者 leyouyuan07@hotmail.com    
 > 洛谷/LUOGU https://www.luogu.com.cn/user/531511    
 
-对NBA、ACG二次元文化、原耽等在同学之间流传的文化**一无所知**   
+对NBA、ACG二次元文化、原耽等在同学之间流传的文化(和我关系好的同学都和这些有关)**一无所知**   
 **也许有人会说我思想偏左，以关心我的名义，让我不发表某些言论，但是我有发表言论的自由，我希望大家也可以发表言论**   
 
 - 西安高新第一中学初中校区就读   studying in Xi'an Gaoxin No.1 Middle School.    
